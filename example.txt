@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta chaeset="UTF-8"
+   <meta name="vieport" content="width=device-width,initial-scale=1.0">
+   <title>Document</title>
+</head>
+<body>
+   <h1> align="center "VAAGDEVI COLLEGE OF ENGINEERING</h1>
+   <p>this college is very famous in warangal</p>
+
+</body>
+</html>
